@@ -26,14 +26,11 @@ Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir con
 ### 🧩 Backend 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
 ### 🧮 Banco de Dados
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -61,7 +58,7 @@ Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir con
 
 Os repositórios deste perfil representam **aprendizado contínuo e aplicação prática**, com foco em:
 
-- Desenvolvimento com React e TypeScript
+- Desenvolvimento com React e Java
 - Consumo e integração de APIs
 - Boas práticas de organização e manutenção de código
 - Acessibilidade e experiência do usuário
