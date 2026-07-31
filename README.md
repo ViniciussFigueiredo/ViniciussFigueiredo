@@ -105,9 +105,5 @@ Os repositórios deste perfil representam minha evolução como desenvolvedor e 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussfigueiredo)
 
-🐙 **GitHub**
-
-[github.com/ViniciussFigueiredo](https://github.com/ViniciussFigueiredo)
-
 ---
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
