@@ -103,8 +103,6 @@ Os repositórios deste perfil representam minha evolução como desenvolvedor e 
 
 💼 **LinkedIn:** **viniciussfigueiredo**
 
-🌐 **Portfólio**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viniciussfigueiredo.github.io/portfolio-project/)
 
 ---
