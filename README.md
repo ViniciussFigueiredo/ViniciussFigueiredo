@@ -101,9 +101,7 @@ Os repositórios deste perfil representam minha evolução como desenvolvedor e 
 
 📧 **E-mail:** **vini.d3v@gmail.com**
 
-💼 **LinkedIn**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussfigueiredo)
+💼 **LinkedIn:** **viniciussfigueiredo**
 
 🌐 **Portfólio**
 
