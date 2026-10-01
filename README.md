@@ -92,7 +92,7 @@ Os repositórios deste perfil representam minha evolução como desenvolvedor e 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**
 - ☕ Aprofundando conhecimentos em **Java** e **Spring Boot**
 - ⚛️ Desenvolvendo aplicações com **React** e **TypeScript**
-- 🗄️ Trabalhando com **PostgreSQL**, **Oracle** e **MongoDB**
+- 🗄️ Trabalhando com **PostgreSQL**, **MySQL** e **MongoDB**
 - 💡 Evoluindo diariamente como **Software Engineer**
 
 ---
