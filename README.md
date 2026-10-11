@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais que entregam valor real aos usuários. Atualmente curso **Análise e Desenvolvimento de Sistemas na FIAP**, onde desenvolvo projetos práticos e fortaleço meus conhecimentos em arquitetura de software, desenvolvimento Full Stack e bancos de dados.
 
-Minha trajetória é construída através do aprendizado contínuo e da aplicação prático. Tenho experiência no desenvolvimento de interfaces modernas, aplicações web responsivas e APIs utilizando o ecossistema React e Java, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+Minha trajetória é construída através do aprendizado contínuo e da aplicação prática. Tenho experiência no desenvolvimento de interfaces modernas, aplicações web responsivas e APIs utilizando o ecossistema React e Java, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 Meu objetivo é evoluir constantemente como engenheiro de software, construindo soluções que unem qualidade técnica, boa experiência do usuário e impacto no negócio.
 
